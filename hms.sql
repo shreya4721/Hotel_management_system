@@ -1,0 +1,1 @@
+SELECT * FROM shreya2.customer;
